@@ -39,6 +39,8 @@ Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to r
 
 [shchmue](https://github.com/shchmue)
 
+[rashevskyv](https://github.com/rashevskyv)
+
 
 
 
