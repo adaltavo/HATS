@@ -25,6 +25,15 @@ https://link.sthetix.info/hats
 
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to remember, right?
 
+
+## HOW TO BOOT TO STOCK FROM HEKATE
+
+To boot to real stock, please follow this guide
+
+![stock](https://github.com/sthetix/HATS/blob/main/stock.png)
+
+Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to remember, right?
+
 ## CREDIT
 
 [CTCaer](https://github.com/CTCaer)
