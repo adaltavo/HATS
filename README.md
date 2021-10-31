@@ -32,7 +32,7 @@ To boot to real stock, please follow this guide
 
 ![stock](https://github.com/sthetix/HATS/blob/main/stock.png)
 
-Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to remember, right?
+
 
 ## CREDIT
 
