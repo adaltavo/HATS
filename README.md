@@ -32,6 +32,19 @@ To boot to real stock, please follow this guide
 
 ![stock](https://github.com/sthetix/HATS/blob/main/stock.png)
 
+## HOW TO CREATE YOUR OWN HATS PACK
+
+1. Download the latest Atmosphere and its fusee.bin from https://github.com/Atmosphere-NX/Atmosphere/releases
+2. Download the latest Hekate from https://github.com/CTCaer/hekate/releases
+3. Download the latest Sigpatches from https://github.com/ITotalJustice/patches/releases
+4. Download the latest Tinfoil from Tinfoil.io
+5. Download the latest DBI from https://github.com/rashevskyv/dbi/releases
+6. Download the SX Gear boot.dat and boot.ini from https://u.pcloud.link/publink/show?code=XZCMlYXZNIJUnyr352XVWoXCuPo2SmwsRGpk
+7. Download the hekate_ipl.ini and its graphic resource from : https://u.pcloud.link/publink/show?code=XZAkVUXZkgrREaCGTQLsTYfCeUqXFhKDnfBk
+8. Create the DBI folder inside the Switch folder and put the latest DBI into it (the .nro and its .config)
+9. Combine them all together, like extract them all into a folder, and put the fusee.bin inside the bootloader folder, inside the payloads folder.
+
+
 
 
 ## CREDIT
