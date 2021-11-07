@@ -2,6 +2,8 @@ This pack includes several components, which is the latest version of Hekate, At
 
 ## HOW TO INSTALL THE PACK
 
+Watch this : https://www.youtube.com/watch?v=jfJIVzeJSyE
+
 1. Delete the existing Atmosphere, Config , Bootloader, Sept folder from your SD card
 2. Extract the HATS pack to your SD card
 3. Inject the SX Loader Payload for unpatched Switch or just boot the console for all patched Switch including the Lites
