@@ -67,6 +67,10 @@ To boot to real stock, please follow this guide
 
 [fortheusers](https://github.com/fortheusers)
 
+[Werwolv](https://github.com/WerWolv)
 
+[carcaschoi](https://github.com/carcaschoi)
+
+[HamletDuFromage](https://github.com/HamletDuFromage)
 
 
