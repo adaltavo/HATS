@@ -46,7 +46,11 @@ To boot to real stock, please follow this guide
 8. Create the DBI folder inside the Switch folder and put the latest DBI into it (the .nro and its .config)
 9. Combine them all together, like extract them all into a folder, and put the fusee.bin inside the bootloader folder, inside the payloads folder.
 
+## GOODIES
 
+If you want to use Edizon, Tesla Menu plus cheats updater, download this file [Edizon+Tesla+AIO Cheats Updater](https://github.com/sthetix/HATS/blob/main/Tesla%2BEdizon%2Bcheats%20updater.zip)  extract it to your SD card.
+
+If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.com/sthetix/HATS/blob/main/tinfoil%2Bshop.zip) and extract it to the SD card.
 
 
 ## CREDIT
