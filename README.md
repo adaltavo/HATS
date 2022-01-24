@@ -77,4 +77,6 @@ If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.
 
 [HamletDuFromage](https://github.com/HamletDuFromage)
 
+[dezem](https://github.com/dezem)
+
 
