@@ -79,4 +79,6 @@ If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.
 
 [dezem](https://github.com/dezem)
 
+[hwfly-nx](https://github.com/hwfly-nx)
+
 
