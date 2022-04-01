@@ -34,6 +34,15 @@ To boot to real stock, please follow this guide
 
 ![stock](https://github.com/sthetix/HATS/blob/main/stock.png)
 
+## HOW TO TRANSFER FILES INTO/FROM YOUR CONSOLE TO YOUR COMPUTER WIRELESSLY
+
+1. Make sure you have connected your console to your home network
+2. Open the album
+3. Press Y  to find the IP address of your console
+4. Open any FTP manager on your computer
+5. Connect to the IP address shown on your console on port 5000 with username/password : switch/switch
+
+
 ## HOW TO CREATE YOUR OWN HATS PACK
 
 1. Download the latest Atmosphere and its fusee.bin from https://github.com/Atmosphere-NX/Atmosphere/releases
@@ -51,6 +60,8 @@ To boot to real stock, please follow this guide
 If you want to use Edizon, Tesla Menu plus cheats updater, download this file [Edizon+Tesla+AIO Cheats Updater](https://github.com/sthetix/HATS/blob/main/Tesla%2BEdizon%2Bcheats%20updater.zip)  extract it to your SD card.
 
 If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.com/sthetix/HATS/blob/main/tinfoil%2Bshop.zip) and extract it to the SD card.
+
+
 
 
 ## CREDIT
@@ -80,5 +91,7 @@ If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.
 [dezem](https://github.com/dezem)
 
 [hwfly-nx](https://github.com/hwfly-nx)
+
+[cathery](https://github.com/cathery)
 
 
