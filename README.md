@@ -15,6 +15,9 @@ Watch this : https://www.youtube.com/watch?v=jfJIVzeJSyE
 
 - Delete the previous files or just replace it with the new downloaded pack, as easy as that.
 
+## HOW TO UPDATE THE CONSOLE FIRMWARE
+- Please watch this video https://www.youtube.com/watch?v=W_OjR-yxfdY&t=30s
+
 
 
 ## ABSOLUTE LINK
