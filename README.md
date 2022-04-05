@@ -70,31 +70,25 @@ If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.
 ## CREDIT
 
 [CTCaer](https://github.com/CTCaer)
-
 [Atmosphere-NX](https://github.com/Atmosphere-NX)
-
 [Blawar](https://github.com/blawar)
-
 [ITotalJustice](https://github.com/ITotalJustice)
-
 [suchmememanyskill](https://github.com/suchmememanyskill)
-
 [shchmue](https://github.com/shchmue)
-
 [rashevskyv](https://github.com/rashevskyv)
-
 [fortheusers](https://github.com/fortheusers)
-
 [Werwolv](https://github.com/WerWolv)
-
 [carcaschoi](https://github.com/carcaschoi)
-
 [HamletDuFromage](https://github.com/HamletDuFromage)
-
 [dezem](https://github.com/dezem)
-
 [hwfly-nx](https://github.com/hwfly-nx)
-
 [cathery](https://github.com/cathery)
+[jits](https://jits.cc)
+[titz](https://titz.cf)
+[stealtshop](https://stealthshop.cf)
+[quotanx](https://quotanx.in)
+[pengu](https://pengu.us)
+[teknik](https://teknik.app)
+
 
 
