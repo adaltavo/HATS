@@ -90,6 +90,12 @@ If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.
 [quotanx](https://quotanx.in)
 [pengu](https://pengu.us)
 [teknik](https://teknik.app)
-
+[DarkMatterCore](https://github.com/DarkMatterCore)
+[J-D-K](https://github.com/J-D-K)
+[tomvita](https://github.com/tomvita)
+[proferabg](https://github.com/proferabg)
+[masagrator](https://github.com/masagrator)
+[SunResearchInstitute](https://github.com/SunResearchInstitute)
+[SegFault42](https://github.com/SegFault42)
 
 
