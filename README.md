@@ -63,7 +63,7 @@ To boot to real stock, please follow this guide
 
 If you want to use Edizon, Tesla Menu plus cheats updater, download this file [Edizon+Tesla+AIO Cheats Updater](https://github.com/sthetix/HATS/blob/main/Tesla%2BEdizon%2Bcheats%20updater.zip)  extract it to your SD card.
 
-If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.com/sthetix/HATS/blob/main/tinfoil%2Bshop.zip) and extract it to the SD card.
+If you want to add Shop to Tinfoil, download this [Tinfoil Shop](https://github.com/sthetix/HATS/blob/main/tinfoil_shop.zip) and extract it to the SD card.
 
 
 
