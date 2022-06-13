@@ -31,7 +31,7 @@ https://link.sthetix.info/hats
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to remember, right?
 
 
-## HOW TO BOOT TO STOCK FROM HEKATE
+## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
 
 To boot to real stock, please follow this guide
 
@@ -98,5 +98,6 @@ If you want to use Edizon, Tesla Menu plus cheats updater, download this file [T
 [SunResearchInstitute](https://github.com/SunResearchInstitute)
 [SegFault42](https://github.com/SegFault42)
 [mtheall](https://github.com/mtheall)
+[joel16](https://github.com/joel16)
 
 
