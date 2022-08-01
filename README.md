@@ -28,7 +28,7 @@ https://link.sthetix.info/hats
 
 ## WHY IT IS CALLED HATS
 
-Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to remember, right?
+Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
 
 
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
