@@ -99,5 +99,6 @@ If you want to use Edizon, Tesla Menu plus cheats updater, download this file [T
 [SegFault42](https://github.com/SegFault42)
 [mtheall](https://github.com/mtheall)
 [joel16](https://github.com/joel16)
+[XorTroll](https://github.com/XorTroll)
 
 
