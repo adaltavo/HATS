@@ -30,6 +30,11 @@ https://link.sthetix.info/hats
 
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
 
+## HOT TO BOOT TO ANY CFW MODE FROM HEKATE
+
+To boot to any CFW mode, plese follow this guide
+![cfw](https://github.com/sthetix/HATS/blob/main/cfw.png)
+
 
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
 
