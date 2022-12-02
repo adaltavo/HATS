@@ -39,7 +39,8 @@ To boot to any CFW mode, plese follow this guide
 
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
 
-To boot to real stock, please follow this guide
+To boot to real stock, please follow this guide 
+because launching OFW from the Launch menu is NOT the real stock, but semi stock as stated here https://github.com/CTCaer/hekate/blob/master/res/hekate_ipl_template.ini
 
 ![stock](https://github.com/sthetix/HATS/blob/main/stock.png)
 
