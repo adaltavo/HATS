@@ -26,21 +26,35 @@ Use this link to always download the updated pack
 https://link.sthetix.info/hats
 
 
-## WHY IT IS CALLED HATS
+## WHY IS IT CALLED HATS ?
 
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)uper . Easy to remember, right?
 
-## HOT TO BOOT TO ANY CFW MODE FROM HEKATE
+## WHAT IS SYSMMC / EMUMMC / STOCK
 
-To boot to any CFW mode, plese follow this guide
+- STOCK is OFW. It is the actual factory firmware that comes from the factory
+- SYSMMC is OFW with patches or CFW. You can run homebrews on it but do not install game backups on this world unless you know what you are doing and its consequences. It reflects the OFW/STOCK itself. 
+- EMUMMC is the emulated SYSMMC. It copied itself from the OFW and placed inside the micro SD card, and it is always in the CFW method. It is unrelated to the STOCK/OFW/SYSMMC as it is a different entity after creation. You can install and run anything here, like game backups, homebrews, etc. 
+
+## HOW TO USE THE PACK WISELY AND NOT GET BANNED
+
+- Do not install game backups or run Tinfoil on the SYSMMC, as it reflects the OFW. If you accidentally installed those stuff, please do the SYSTEMWIPE immediately: https://youtu.be/n6xEakq3n58
+- Install game backups and others under the EMUMMC mode
+- You can connect the SYSMMC and the EMUMMC to the internet as the exosphere.ini hides the console's serial number on all CFW modes
+- To connect the SYSMMC to the e-shop or the Big N server, you must edit the exosphere.ini file and alter the blank_prodinfo_sysmmc=1 to blank_prodinfo_sysmmc=0. Make sure you know what you are doing and know the consequences of doing this.
+- Do not use cheats on online games (like the splatoon 3)
+
+
+## HOW TO BOOT TO ANY CFW MODE FROM HEKATE
+
+To boot to any CFW mode, please follow this guide.
 
 ![cfw](https://github.com/sthetix/HATS/blob/main/cfw.png)
-
 
 ## HOW TO BOOT TO THE REAL STOCK (OFW) FROM HEKATE
 
 To boot to real stock, please follow this guide 
-because launching OFW from the Launch menu is NOT the real stock, but semi stock as stated here https://github.com/CTCaer/hekate/blob/master/res/hekate_ipl_template.ini
+because launching OFW from the Launch menu is NOT the real stock, but semi-stock as stated here https://github.com/CTCaer/hekate/blob/master/res/hekate_ipl_template.ini
 
 ![stock](https://github.com/sthetix/HATS/blob/main/stock.png)
 
@@ -50,7 +64,7 @@ because launching OFW from the Launch menu is NOT the real stock, but semi stock
 2. Open the album
 3. Press Y  to find the IP address of your console
 4. Open any FTP manager on your computer
-5. Connect to the IP address shown on your console on port 5000 with username/password : switch/switch
+5. Connect to the IP address shown on your console on port 5000 with username/password: switch/switch
 
 
 ## HOW TO CREATE YOUR OWN HATS PACK
@@ -61,9 +75,9 @@ because launching OFW from the Launch menu is NOT the real stock, but semi stock
 4. Download the latest Tinfoil from Tinfoil.io
 5. Download the latest DBI from https://github.com/rashevskyv/dbi/releases
 6. Download the SX Gear boot.dat and boot.ini from https://u.pcloud.link/publink/show?code=XZCMlYXZNIJUnyr352XVWoXCuPo2SmwsRGpk
-7. Download the hekate_ipl.ini and its graphic resource from : https://u.pcloud.link/publink/show?code=XZAkVUXZkgrREaCGTQLsTYfCeUqXFhKDnfBk
+7. Download the hekate_ipl.ini and its graphic resource from: https://u.pcloud.link/publink/show?code=XZAkVUXZkgrREaCGTQLsTYfCeUqXFhKDnfBk
 8. Create the DBI folder inside the Switch folder and put the latest DBI into it (the .nro and its .config)
-9. Download any tools / homebrew apps you want to add to the pack
+9. Download any tools/homebrew apps you want to add to the pack
 10. Combine them all together, like extract them all into a folder, put the payloads file inside the bootloader folder
 
 
