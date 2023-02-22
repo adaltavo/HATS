@@ -66,9 +66,7 @@ because launching OFW from the Launch menu is NOT the real stock, but semi stock
 9. Download any tools / homebrew apps you want to add to the pack
 10. Combine them all together, like extract them all into a folder, put the payloads file inside the bootloader folder
 
-## GOODIES
 
-If you want to use Edizon, Tesla Menu plus cheats updater, download this file [Tesla Combo](https://github.com/sthetix/HATS/blob/main/Tesla_Combo.zip)  extract it to your SD card.
 
 
 
