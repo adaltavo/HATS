@@ -66,6 +66,13 @@ because launching OFW from the Launch menu is NOT the real stock, but semi-stock
 4. Open any FTP manager on your computer
 5. Connect to the IP address shown on your console on port 5000 with username/password: switch/switch
 
+## ERROR 2023-0011 SOLUTION
+
+![2023-0011](https://github.com/sthetix/HATS/blob/main/2023-0011.png)
+
+The HATS pack hides the console's seriel number on all CFW modes. That is why if you launched the sysMMC or the emuMMC and tried to connect the console to eshop or update the games online, you will see this error code.
+To solve this issue, please boot to the OFW mode https://github.com/sthetix/HATS#how-to-boot-to-the-real-stock-ofw-from-hekate
+
 
 ## HOW TO CREATE YOUR OWN HATS PACK
 
