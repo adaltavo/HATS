@@ -80,11 +80,11 @@ However, if you insist on connecting the CFW modes to the Nintendo server, you m
 
 To connect the sysMMC to the Nintendo server, please edit
 
-** blank_prodinfo_sysmmc=1 to blank_prodinfo_sysmmc=0
+** blank_prodinfo_sysmmc=1 to blank_prodinfo_sysmmc=0 **
 
 To connect the emuMMC to the Nintendo server, please edit
 
-** blank_prodinfo_emummc=1 to blank_prodinfo_emummc=0
+** blank_prodinfo_emummc=1 to blank_prodinfo_emummc=0 **
 
 
 ## HOW TO CREATE YOUR OWN HATS PACK
