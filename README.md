@@ -70,8 +70,21 @@ because launching OFW from the Launch menu is NOT the real stock, but semi-stock
 
 ![2023-0011](https://github.com/sthetix/HATS/blob/main/2023-0011.png)
 
-The HATS pack hides the console's seriel number on all CFW modes. That is why if you launched the sysMMC or the emuMMC and tried to connect the console to eshop or update the games online, you will see this error code.
+The HATS pack hides the console's serial number on all CFW modes. That is why if you launched the sysMMC or the emuMMC and tried to connect the console to eshop or update the games online, you will see this error code.
 To solve this issue, please boot to the OFW mode https://github.com/sthetix/HATS#how-to-boot-to-the-real-stock-ofw-from-hekate
+
+## HOW TO CONNECT THE CONSOLE TO THE NINTENDO SERVER WHILE RUNNING THE CFW MODE
+
+As mentioned, the HATS pack hides the console's serial number on all CFW modes to prevent your console from getting banned online if you accidentally / unintentionally installed pirated or illegal apps/games.
+However, if you insist on connecting the CFW modes to the Nintendo server, you must edit the exosphere.ini at the root of the SD card with a notepad.
+
+To connect the sysMMC to the Nintendo server, please edit
+
+# blank_prodinfo_sysmmc=1 to blank_prodinfo_sysmmc=0
+
+To connect the emuMMC to the Nintendo server, please edit
+
+# blank_prodinfo_emummc=1 to blank_prodinfo_emummc=0
 
 
 ## HOW TO CREATE YOUR OWN HATS PACK
