@@ -1,4 +1,4 @@
-This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Super  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
+This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Signature patches  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 
 ## HOW TO INSTALL THE PACK
 
@@ -91,7 +91,7 @@ To connect the emuMMC to the Nintendo server, please edit
 
 1. Download the latest Atmosphere from https://github.com/Atmosphere-NX/Atmosphere/releases
 2. Download the latest Hekate from https://github.com/CTCaer/hekate/releases
-3. Download the latest Super from anywhere in this world
+3. Download the latest signature patches from https://sigmapatches.coomer.party/
 4. Download the latest Tinfoil from Tinfoil.io
 5. Download the latest DBI from https://github.com/rashevskyv/dbi/releases
 6. Download the SX Gear boot.dat and boot.ini from https://u.pcloud.link/publink/show?code=XZCMlYXZNIJUnyr352XVWoXCuPo2SmwsRGpk
