@@ -1,4 +1,12 @@
-This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Signature patches  and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
+This HATS pack includes several components like:
+- Hekate
+- SigP@atch3s
+- Atmosphere
+- Awoo installer
+- Some configs to avoid Nintendo Bans (Be carefull always with this)
+- Daybreak
+- Lockpick_rcm payload
+
 
 ## HOW TO INSTALL THE PACK
 
