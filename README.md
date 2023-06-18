@@ -6,6 +6,7 @@ This HATS pack includes several components like:
 - Some configs to avoid Nintendo Bans (Be carefull always with this)
 - Daybreak
 - Lockpick_rcm payload
+- pico_fly_toolbox payload
 
 
 ## HOW TO INSTALL THE PACK
